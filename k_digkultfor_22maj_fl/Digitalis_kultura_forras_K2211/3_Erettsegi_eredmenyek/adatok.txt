@@ -1,0 +1,15 @@
+jegyek	12.A	12.B	12.C	12.D	12.E	12.F	összesen	arány
+5	42	84	65	65	63	66
+4	57	30	53	47	42	53
+3	17	7	16	26	27	14
+2	2	1	0	1	1	2
+1	0	0	0	0	1	1
+összesen
+átlag 2021
+év vége 2020	4,38	4,74	4,26	4,09	4,32	4,41	4,37
+változás 2020-hoz képest
+
+
+Legjobb 2021-es átlag
+Legjobb átlagot elérő osztály
+Aktuális dátum

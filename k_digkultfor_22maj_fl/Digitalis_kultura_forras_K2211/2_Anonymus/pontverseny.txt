@@ -1,0 +1,20 @@
+Anonymus Pontverseny
+Legyél Te a 3. forduló bajnoka!
+
+Heti feladvány
+Derítsd ki a képen látható szobor GPS koordinátáját! Használd a tizedes fokokat tartalmazó formátumot!
+Keress olyan szobrokat Magyarországon, amelyek közel ugyanazon hosszúsági körön fekszenek, mint ez a szobor! (4 tizedesjegy pontossággal számolj!)
+Add meg a szobrok neveit és koordinátáit! Minden helyes megoldás 1 pontot ér.
+Használd a QR-kódot az űrlap eléréséhez!
+
+A pontverseny állása
+Helyei Petra	11/B	36 pont
+Kovács Kristóf	10/C	34 pont
+Nagy Bianka	9/A	33 pont
+Molnár Tamás	12/A	32 pont
+Németh Réka	9/B	31 pont
+Fogarasi Gábor	10/B	30 pont
+Farkas Tímea	11/A	29 pont
+Aradi Fanni	10/A	28 pont
+Ligeti Vivien	11/C	27 pont
+Vasas Máté	12/B	26 pont
